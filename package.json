@@ -1,0 +1,18 @@
+{
+  "name": "DadJokes",
+  "version": "1.0.0",
+  "description": "Lists bad dad jokes create with NuxtJs for practice",
+  "author": "Mauro Blacona",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
